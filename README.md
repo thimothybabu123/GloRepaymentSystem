@@ -52,11 +52,13 @@ A Spring Boot-based web application that simplifies shared expense and repayment
 
 2. Import into your IDE (e.g., IntelliJ IDEA or Eclipse)
 
-3. Configure DB settings in application.properties
+3. Configure jdk version to 17 in project structure to run.
 
-4. Run the application using Spring Boot
+4. Configure DB settings in application.properties
 
-5. Test endpoints using Postman
+5. Run the application using Spring Boot
+
+6. Test endpoints using Postman
 
 ## 📝 License
 This project is open-source and available under the MIT License.
